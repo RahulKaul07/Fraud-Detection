@@ -1,0 +1,7 @@
+Pandas==1.5.3
+Numpy==1.24.3
+Matplotlib==3.7.1
+Seaborn==0.12.2
+Plotly==5.9.0
+Lightgbm==4.3.0
+xgboost==2.0.3
